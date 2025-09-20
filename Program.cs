@@ -1,5 +1,8 @@
 ﻿namespace NumbersGame
 {
+
+    //George Al Akhras - Klass NET25
+
     internal class Program
     {
         static void Main(string[] args)
